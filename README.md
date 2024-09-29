@@ -11,16 +11,22 @@ passo para um cientista de dados é o entendimento preliminar de outra enfermida
 passo em direção à previsão de enfermidades com algoritmos de machine learning. Para isto, é
 preciso que o cientista entenda as principais variáveis determinantes da diabetes e a inter-relação
 entre estas variáveis.
+
+
 Diabetes está entre as doenças crônicas mais prevalentes no mundo, impactando milhões de pessoas
 a cada ano e exercendo uma carga financeira significativa na economia. O diabetes é uma doença
 crônica grave em que os indivíduos perdem a capacidade de regular eficazmente os níveis de
 glicose no sangue, o que pode levar à redução da qualidade de vida e da expectativa de vida. Após a
 digestão dos alimentos, os açúcares resultantes são liberados na corrente sanguínea, sinalizando ao
 pâncreas para liberar insulina. A insulina ajuda a permitir que as células do corpo utilizem esses
-açúcares presentes no sangue como fonte de energia. O diabetes é geralmente caracterizado pelo
+açúcares presentes no sangue como fonte de energia. 
+
+O diabetes é geralmente caracterizado pelo
 corpo não produzir insulina suficiente ou não conseguir usar a insulina produzida de maneira eficaz
 como necessário.
-Variáveis:
+
+
+## Variáveis:
 • Diabetes_012: 0 = sem diabetes 1 = pré-diabetes 2 = diabetes
 • HighBP: 0 = sem pressão alta 1 = pressão alta
 • HighChol: 0 = sem colesterol alto 1 = colesterol alto
@@ -61,7 +67,9 @@ Ensino Médio) 4 = 12ª série ou GED (Ensino Médio completo) 5 = Faculdade de 
 • Income: Escala de renda escala de 1 a 8 1 = menos de $10,000 5 = menos de $35,000 8 =
 $75,000 ou mais
 Objetivo
-No entendimento de possíveis problemas de saúde que podem acometer a população, o cientista
+
+
+## No entendimento de possíveis problemas de saúde que podem acometer a população, o cientista
 deve analisar o conjunto de dados de forma a entender o inter-relacionamento entre as variáveis.
 Para isso, ele deverá fazer uma entrega da análise do banco de dados, seguindo os seguintes passos:
 • Valor Total da Entrega (100 pontos)
@@ -87,6 +95,8 @@ estatísticas descritivas, com título e breve texto (parágrafo) com análise, 
 com conclusão geral da análise de dados. Este material (PDF) é utilizado para
 apresentação executiva do projeto de dez minutos. Os detalhes ficam no Jupyter
 notebook.
+
+
 Entrega: O arquivo com a documentação deverá ser entregue em formato ‘.ipynb’ (Notebook),
 enquanto o arquivo da apresentação deverá ser entregue em formato ‘.pdf’ (Portable Document
 Format). A não entrega de algum destes documentos ocasiona na diminuição da pontuação. A
