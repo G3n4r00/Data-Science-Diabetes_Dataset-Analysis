@@ -1,9 +1,13 @@
 # Grupo:
 Gabriel Dalaqua - RM551986
-Paloma Mirella - RM551321
-Ricardo Ventanni
-Murilo Marsola
-Victor Kenzo
+
+Paloma Mirela - RM551321
+
+Ricardo Ventanni - RM550166
+
+Murilo Marsola - RM552117
+
+Victor Kenzo - RM551649
 
 ## Contexto
 Após a análise de um tipo de enfermidade incidente sobre a população (COVID-19), o próximo
